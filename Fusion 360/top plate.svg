@@ -5,7 +5,7 @@
    height="1122.5196850393702"
    version="1.1"
    id="svg36"
-   sodipodi:docname="Take two on top plate b.svg"
+   sodipodi:docname="top plate.svg"
    inkscape:version="1.4 (86a8ad7, 2024-10-11)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -21,9 +21,9 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
-     inkscape:zoom="2"
-     inkscape:cx="-3.25"
-     inkscape:cy="1161.75"
+     inkscape:zoom="1.4142136"
+     inkscape:cx="214.60691"
+     inkscape:cy="1236.7298"
      inkscape:window-width="2560"
      inkscape:window-height="1494"
      inkscape:window-x="-11"
@@ -81,7 +81,7 @@
      inkscape:label="0"
      id="g36">
     <path
-       d="m 32.319161,1099.6019 a 5.6692915,5.6692915 0 0 0 10.95223,-2.9346 5.6692915,5.6692915 0 0 0 -10.95223,2.9346 z"
+       d="m 32.319161,1110.9405 a 5.6692915,5.6692915 0 0 0 10.95223,-2.9346 5.6692915,5.6692915 0 0 0 -10.95223,2.9346 z"
        style="fill:none;stroke:#0000ff;stroke-width:0.755906;stroke-dasharray:none"
        id="path5-9" />
     <path
@@ -113,8 +113,8 @@
        style="fill:none;stroke:#0000ff;stroke-width:0.75590551;stroke-dasharray:none"
        id="path17" />
     <path
-       d="M 45.354331,1198.110237 A 45.354331,45.354331 -0.000000 0, 0 -45.354331,1198.110237 A 45.354331,45.354331 -0.000000 0, 0 45.354331,1198.110237 z"
-       style="fill:none;stroke:#0000ff;stroke-width:0.75590551;stroke-dasharray:none"
+       d="m 41.90194,1180.7539 a 45.354331,45.354331 0 0 0 -83.803877,34.7127 45.354331,45.354331 0 0 0 83.803877,-34.7127 z"
+       style="fill:none;stroke:#0000ff;stroke-width:0.755906;stroke-dasharray:none"
        id="path19" />
     <path
        d="M -94.488189,952.440945 L -94.488189,1198.110237 A 94.488189,94.488189 0.0 0 0 94.488189,1198.110237 L 94.488189,952.440945 A 94.488189,94.488189 0.0 0 0 -94.488189,952.440945 z"
@@ -158,7 +158,7 @@
        r="4.7244096" />
     <path
        sodipodi:type="star"
-       style="fill:none;stroke:#0000ff;stroke-width:0.725477;stroke-dasharray:none"
+       style="fill:none;stroke:#0000ff;stroke-width:0.738072;stroke-dasharray:none"
        id="path39"
        inkscape:flatsided="false"
        sodipodi:sides="4"
@@ -171,6 +171,6 @@
        inkscape:rounded="0"
        inkscape:randomized="0"
        d="m -217.08178,1039.8005 -1.24012,44.0061 -31.9939,30.2402 -44.0061,-1.2402 -30.24011,-31.9939 1.24011,-44.0061 31.9939,-30.2401 44.0061,1.2401 z"
-       transform="matrix(0.95101624,-0.425693,0.425693,0.95101624,-193.80909,74.454413)" />
+       transform="matrix(0.36512074,-0.95686819,0.95686819,0.36512074,-915.691,551.82943)" />
   </g>
 </svg>
